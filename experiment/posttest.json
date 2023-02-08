@@ -2,30 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1: Calculate the hall voltage when the magnetic field is 8 A/m 
-current is 4 A, width is 5m and the concentration of carrier is 1020 ?",
+      "question": "1: What is the unit of electrochemical value of cupper. ?",
       "answers": {
-        "a": "4.125 V",
-        "b": "0.312 V",
-        "c": "4.2 V",
-        "d": "0.4 V"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "2: A hall's effect pick-up can be used for measuring ?",
-      "answers": {
-        "a": "magnetic flux",
-        "b": "pressure",
-        "c": "current",
-        "d": "relative humidity"
+        "a": "coulomb/gram ",
+        "b": "kg/ampere",
+        "c": "gram/coulomb",
+        "d": "gram/second "
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -36,8 +18,25 @@ current is 4 A, width is 5m and the concentration of carrier is 1020 ?",
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
+    {
+      "question": "2: The electrochemical equivalent of copper is 0.0003296 g coulomb-1. Calculate the amount of copper deposited by a current of 0.5 ampere flowing through copper sulphate solution for 50 minutes. ?",
+      "answers": {
+        "a": "0.5478",
+        "b": "0.4944",
+        "c": "0.4577",
+        "d": "insufficient data "
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Medium"
+    },
 {
-"question": "3: The Hall effect ?",
+"question": "3: The balancing length of a potentiometer is at 120 cm. On shunting the cell with a resistance of 4 ohms, the balancing point shifts to a length of 60 cm. Then, find the internal resistance of the cell?",
       "answers": {
         "a": "is a phenomenon with no practical applications",
         "b": "is used in various sensor applications",
