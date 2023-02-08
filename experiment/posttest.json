@@ -12,7 +12,7 @@
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "Electrochemical equivalent of a substance may be defined as the mass of the substance deposited when a current of 1 Ampere is passed for 1 Second, i.e. a quantity of electricity of one Coulomb is passed. hence its unit is Gram/Coulomb.",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
@@ -28,7 +28,7 @@
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "b": "According to faraday's first law W=2it,W=0.5×50×60×0.003296=0.4944g",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
@@ -36,21 +36,22 @@
       "difficulty": "Medium"
     },
 {
-"question": "3: The balancing length of a potentiometer is at 120 cm. On shunting the cell with a resistance of 4 ohms, the balancing point shifts to a length of 60 cm. Then, find the internal resistance of the cell?",
+"question": "3:A solution of copper sulphate electrolysed for 20 minute with a current of 1.5 ampere calculate the mass of copper deposited at the cathode ",
       "answers": {
-        "a": "is a phenomenon with no practical applications",
-        "b": "is used in various sensor applications",
-        "c": "can develop potentials of thousands of volts",
-        "d": "is the basis for solar cell operation"
+        "a": "0.529 gram",
+        "b": "10 gram",
+        "c": "1.25 gram",
+        "d": "5.29 gram"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.529g
+ <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
+      "correctAnswer": "A",
+      "difficulty": "medium"
     },
   ]
 }
