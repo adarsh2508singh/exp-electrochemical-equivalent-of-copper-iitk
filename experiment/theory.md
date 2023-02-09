@@ -23,10 +23,10 @@ Where
 If I = 1 ampere and t = 1 second then Z = W Therefore electrochemical equivalent may be defined as, “The mass of substance (in grams) liberated at the electrode on passing current of 1 ampere for 1 second or on passing 1 coulomb of electricity is called electrochemical equivalent of the substance”.
 From equation (1),
 <br>
-![image](https://user-images.githubusercontent.com/72906969/217242865-59f48b0f-6e9a-4961-87f8-10075e8e2404.png)
+< img src="images/ana2023-02-09 153339.png">
 Knowing, W, I & t, Z can be determined
 <br>
-![image](https://user-images.githubusercontent.com/72906969/217243360-44a5f35c-62e8-4f25-b696-be3b83d7ac45.png)
+< img src="images/ana2023-02-09 153339.png">)
 <br>
 Electrochemical equivalent of some elements are :<br>
 Silver    -	0.0011181<br>
