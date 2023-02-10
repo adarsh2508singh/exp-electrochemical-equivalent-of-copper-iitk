@@ -1,7 +1,17 @@
-<ol>
-  <li>First user will note the value  weight of copper electrode  dip it into the solution<br> </li>
-<li>After diping user will switch on the circuit and start the timer and take reading at particular time of instant. <br></li>
-<li>Now user will dry the electrode and try to find mass deposited on copper electrode. <br></li>
+<ol> 
+  <li> As the student will open the simulator then simulator will show semantic diagram of copmlete arrangement of Electrochemical Equivalent (ECE) Of Copper.<br> </li>
+<li> Firstly User will measure the  initial weight of cupper elctrode by using of weighing machine. <br></li>
+<li> After measure the intial weight of cuppeer electrode, user will put the the cupper electrode inside the Cupper Sulphate Solution to make the close circuit and note the depostion mechanism of ion on Cathode. <br></li>
+  <li> Now user will select the value of resistor arbitiary, by just moving the slider bar of resistance. <br></li>
+  <li> After selecting the value of resistor user will ON the switch of circuit. <br></li>
+  <li> When user will ON the circuit at that time user will also ON the stopwatch to read the value of time. <br></li>
+  <li> As the user will ON the circuit the ammeter would show the value of current, which will continious vary with time as accordance with depostion rate of ion on copper electrode. <br></li>
+  <li> After the certain interval of time user will open the circuit by just clicking the switch of the circuit. and same time user will also stop the stopwatch  <br></li>
+  <li> By following above steps user will take the reading of current at their chosen interval of time and also the value of time interwall by the help of stopwatch. <br></li>
+  <li> Now user will take cupper electrode away from the cupper sulphate solution and again measure the value of weight of cupper electrode by the help of weighing machine and note down the final weight of cupper electrode. Here the final weight of cupper electrode refer to the weight of cupper after the process of deposition process which has been done by using electrolysis. <br></li>
+  <li> Any way user can get all the value namely time ,current at that time ,initial weight and final weight of cupper electrode (quantity of deposited ion).<br></li>
+  <li> User will fill these value inside the table and can get the calculated value elechemical equivalent (ECE)of copper.<br></li>
+  
 </ol>
 <h3> Calculation </h3>
 
