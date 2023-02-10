@@ -11,18 +11,27 @@
   <li> Now user will take cupper electrode away from the cupper sulphate solution and again measure the value of weight of cupper electrode by the help of weighing machine and note down the final weight of cupper electrode. Here the final weight of cupper electrode refer to the weight of cupper after the process of deposition process which has been done by using electrolysis. <br></li>
   <li> Any way user can get all the value namely time ,current at that time ,initial weight and final weight of cupper electrode (quantity of deposited ion).<br></li>
   <li> User will fill these value inside the table and can get the calculated value elechemical equivalent (ECE)of copper.<br></li>
+  <li> Following table is to be filled for calculating the value ECE of Cupper. which can be filled by following above steps. <br></li>
   
+  Sr. No |	Initial weight(W1)	| Final Weight (W2)  | Deposited weight of Ion (W2-W1) | Current  | Time interval | Electrochemical Equivalent (ECE)of Cupper (Z)
+:--|:--|:-- |:-- |:-- |:--  |:-:
+1.|   <br>  |   <br>  | <br> 
+2.|   <br>  |   <br>  | <br> 
 </ol>
 <h3> Calculation </h3>
 
 
-
-A. Mass of copper deposited <br>
+<h4> Suppose obtained data are </h4> 
 Initial mass of the cathode, W1 = 27.6 gm<br>
 Final mass of the cathode, W2 = 28.6 gm<br>
 Mass of copper deposited, W = (W2 – W1) = (28.6 - 27.6) = 1 gm<br>
-B. Data for finding equivalent weight of copper<br>
+B. Data for finding equivalent weight of cupper<br>
 Time for required current pass, t = 1800 sec<br>
-Mean current, I = 2.197 amp<br>
+Mean current, I = 2.197 amp<br><br>
+<p> Calculation of ECE of cupper can be understand by following expresssion </p> </br>
 
 ![image](https://user-images.githubusercontent.com/72906969/217495721-4c7e0522-687c-4a09-a997-970c37704b8b.png)
+
+
+
+
