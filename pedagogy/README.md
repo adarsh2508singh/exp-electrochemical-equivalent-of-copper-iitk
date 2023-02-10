@@ -81,5 +81,5 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|  <br> | <br> |   
-2.|  <br> | <br> |
+1.|  Student will open the simulator | Simulator will show the complete circuit and others equipments arrangement which has been used during the experiment.  | To initiate the simulator and to rewise the students to the basic equipments required for determing the ECE of copper electrode.  
+2.|  student will measure the value cupper electrode before rge| <br> |
