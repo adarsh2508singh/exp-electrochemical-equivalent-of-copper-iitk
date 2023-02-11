@@ -30,7 +30,7 @@ Time for required current pass, t = 1800 sec<br>
 Mean current, I = 2.197 amp<br><br>
 <p> Calculation of ECE of cupper can be understand by following expresssion </p> </br>
 
-![image](https://user-images.githubusercontent.com/72906969/217495721-4c7e0522-687c-4a09-a997-970c37704b8b.png)
+<img src="images/XDD.png">
 
 
 
