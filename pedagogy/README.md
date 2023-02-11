@@ -8,10 +8,10 @@
 <b> Experiment : Name of the experiment	 <a name="top"></a> <br>
 </p>
 
-<b>Discipline | Engineering physics <b> 
+<b>Discipline | Physical Science <b> 
 :--|:--|
-<b> Lab |  Physical Lab <b> 
-<b> Experiment| To determine the elecrochemical equivalent (ECE) of cuppe <b> 
+<b> Lab |  Physicsl Lab <b> 
+<b> Experiment| To determine the elecrochemical equivalent (ECE) of Cupper <b> 
 
 
 <h4> [1. Focus Area](#LO)
