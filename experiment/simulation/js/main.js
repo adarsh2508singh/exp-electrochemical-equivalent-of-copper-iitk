@@ -1,5 +1,4 @@
 //Your JavaScript goes in here
-//Your JavaScript goes in here
 var circuit=false;
 const voltage=12;
  var resistance=0;
@@ -27,6 +26,8 @@ let rotation = 0;
 
    image.style.transform = `rotate(${rotation}deg)`;
    image.style.transformOrigin = "338.9px 132px";
+   image.style.transition = 'transform 1s';
+
 
   
    document.getElementById("switch1btn").style.fill = "green";
@@ -48,6 +49,8 @@ var  st= setInterval(function(){
   else if(rotateBtn.style.fill=="green"){
     rotateBtn.style.fill="red";
     image.style.transform = `rotate(${-rotation}deg)`;
+   image.style.transition = 'transform 1s';
+
    document.getElementById("switch1text").innerHTML =  "Switch Off";
 circuit=false;
 
@@ -138,6 +141,9 @@ function openNav() {
 
   
     cathod.setAttribute('transform','translate(295,0)');
+    cathod.style.transition = 'transform 2s';
+
+
 //     var wgt=setInterval(function(){
   // document.getElementById('weight').innerHTML=((10) + (0.000327)*(voltage/resistance))
     
@@ -148,7 +154,7 @@ function openNav() {
 //   clearInterval(wgt);
 // }
 //     },1000);
-  document.getElementById('weight').innerHTML=((10) +( (0.000327)*(voltage/resistance)*count))+" "+"g";
+  document.getElementById('weight').innerHTML=((10) +( (0.000327)*(voltage/resistance)*count)).toFixed(3)+" "+"g";
     
 
 document.getElementById('resistance1').disabled=true;
@@ -160,6 +166,8 @@ document.getElementById('resistance1').disabled=true;
 
 
   cathod.setAttribute('transform','translate(0,0)');
+  cathod.style.transition = 'transform 3s';
+
 document.getElementById('resistance1').disabled=true;
 
 circuit=true;
