@@ -38,13 +38,13 @@
 {
 "question": "3:A solution of copper sulphate electrolysed for 20 minute with a current of 1.5 ampere calculate the mass of copper deposited at the cathode ",
       "answers": {
-        "a": "0.529 gram",
+        "a": "0.593 gram",
         "b": "10 gram",
         "c": "1.25 gram",
         "d": "5.29 gram"
       },
       "explanations": {
-        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.529g <a href='www.google.com'>here</a>",
+        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.593g <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
