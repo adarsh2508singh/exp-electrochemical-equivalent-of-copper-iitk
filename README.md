@@ -19,5 +19,5 @@ This experiment is concern about the process from which the value of electrochem
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-2 | Nishant Pandey| Student | Mechanical Engineering  | Rajkiya Engineering College Banda |nishpand01@gmail.com
-1 | Adarsh Singh | Student| Information Technology | Rajkiya Engineering College Banda |adarshsingh2508@gmail.com
+1 | Nishant Pandey| Student | Mechanical Engineering  | Rajkiya Engineering College Banda |nishpand01@gmail.com
+2 | Adarsh Singh | Student| Information Technology | Rajkiya Engineering College Banda |adarshsingh2508@gmail.com
