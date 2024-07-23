@@ -44,13 +44,47 @@
         "d": "5.29 gram"
       },
       "explanations": {
-        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.593g <a href='www.google.com'>here</a>",
+        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.593g",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
       "correctAnswer": "A",
       "difficulty": "medium"
-    }
+    },
+
+{
+"question": "3:An elecrochemcal equivalent(M) is given by which of the below expression ",
+      "answers": {
+        "a": "M=Z*i*t",
+        "b": "M=Z/i",
+        "c": "M=Z*t",
+        "d": "M=Z*i/t"
+      },
+      "explanations": {
+        "a": "M=Z*i*t ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "A",
+      "difficulty": "esay"
+    },
+    "question": "3:Which of the following represents the correct order of electron releasing tendency of metals  ",
+      "answers": {
+        "a": "Zn>Cu>Ag",
+        "b": "Zn>Ag>Cu",
+        "c": "Cu>Ag>Zn",
+        "d": "Cu>Zn>Ag"
+      },
+      "explanations": {
+        "a": "Metals differ in their tendency to release valence electrons. Activity is the chemical name for this tendency to release electrons.The activity series is the arrangement of elements according to their ability to release electrons. The activity series is shown below Li > K > Ba > Sr > Ca > Na > Mg > Al > Mn > Zn > Fe > Cd > Co > Ni > Sn > Pb > H2 > Cu > Hg > Ag > Au ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "A",
+      "difficulty": "medium"
+    },
   ]
 }
