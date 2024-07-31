@@ -18,6 +18,7 @@
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
+    
     {
       "question": "2: The electrochemical equivalent of copper is 0.0003296 g coulomb-1. Calculate the amount of copper deposited by a current of 0.5 ampere flowing through copper sulphate solution for 50 minutes. ?",
       "answers": {
@@ -35,6 +36,7 @@
       "correctAnswer": "b",
       "difficulty": "Medium"
     },
+    
 {
 "question": "3:A solution of copper sulphate electrolysed for 20 minute with a current of 1.5 ampere calculate the mass of copper deposited at the cathode ",
       "answers": {
@@ -52,6 +54,7 @@
       "correctAnswer": "a",
       "difficulty": "medium"
     },
+    
 
 {
 "question": "3:An elecrochemcal equivalent(M) is given by which of the below expression ",
@@ -70,7 +73,8 @@
       "correctAnswer": "a",
       "difficulty": "esay"
     },
-    "question": "4:Which of the following represents the correct order of electron releasing tendency of metals  ",
+    
+   { "question": "4:Which of the following represents the correct order of electron releasing tendency of metals  ",
       "answers": {
         "a": "Zn>Cu>Ag",
         "b": "Zn>Ag>Cu",
