@@ -57,7 +57,7 @@
     
 
 {
-"question": "3:An elecrochemcal equivalent(M) is given by which of the below expression ",
+"question": "4:An elecrochemcal equivalent(M) is given by which of the below expression ",
       "answers": {
         "a": "M=Z*i*t",
         "b": "M=Z/i",
@@ -74,7 +74,7 @@
       "difficulty": "esay"
     },
     
-   { "question": "4:Which of the following represents the correct order of electron releasing tendency of metals  ",
+   { "question": "5:Which of the following represents the correct order of electron releasing tendency of metals  ",
       "answers": {
         "a": "Zn>Cu>Ag",
         "b": "Zn>Ag>Cu",
